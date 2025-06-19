@@ -1,0 +1,5 @@
+user-agent
+aiohttp
+github
+pydantic
+pydantic-settings
